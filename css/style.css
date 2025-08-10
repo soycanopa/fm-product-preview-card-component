@@ -9,13 +9,42 @@
 
 :root {
     /* Colors Primary */
-    --green-700: hsl(158, 42%, 18%);
-    --green-500: hsl(158, 36%, 37%);
+    --green-700: #1A4032;
+    --green-500: #3D8168;
     
     /* Neutrals */
 
-    --black: hsl(212, 21%, 14%);
-    --grey: hsl(228, 12%, 48%);
-    --cream: hsl(30, 38%, 92%);
-    --white: hsl(0, 0%, 100%);
+    --gunmetal: #1C232B;
+    --aurometal: #6C7289;
+    --cream-bg: #F2EAE2;
+    --pure-white: #FFFFFF;
+
+    /* Typography */
+    --display-font-family: 'Fraunces';
+    --display-size: 2rem;
+    --display-weight: 600;
+    --display-line-height: 2rem;
+
+    --overline-font-family: 'Montserrat';
+    --overline-size: 0.75rem;
+    --overline-weight: 500;
+    --overline-line-height: 100%;
+    --overline-letter-spacing: 0.3125rem;
+
+    --body-font-family: 'Montserrat';
+    --body-size: 0.875rem;
+    --body-weight: 500;
+    --body-line-height: 1.4375rem;
+
+    --overline-2-font-family: 'Montserrat';
+    --overline-2-size: 0.8125rem;
+    --overline-2-weight: 500;
+    --overline-2-line-height: 1.4375rem;
+
+    --button-font-family: 'Montserrat';
+    --button-size: 0.875rem;
+    --button-weight: 600;
+    --button-line-height: 100%;
 } 
+
+
